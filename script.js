@@ -44,72 +44,36 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Wrong",
             artist: "Chris Grey",
             src: "song.mp3", 
-            lyrics: `Bebé, dime mentiras
-                Susúrralas contra mi piel, hazme sentir vivo
-                Enredados hasta que ya no sé qué es tuyo o mío
-                No veo claro, pero sé que juntos somos un viaje de locos
-                De locos
-                Tu amor es algo casi espiritual
-                Tan infiel a la vida que creía querer
-                Ya no la quiero
-                Y no veo nada
-                No hay milagro que me salve una vez que caigo
-                Y estoy cayendo
-                Bebé, dime por qué amarte no se siente mal
-                Duele hasta que deja de doler
-                No puedo alejarme mucho tiempo
-                No sé cómo sacarte de mi cabeza
-                Conviertes el infierno en nuestro paraíso
-                Amarte es un suicidio
-                Y lo hago todas las noches
-                Todas las noches
-                Todas las noches
-                Oh
-                Bebé, no me rompo fácil
-                Dame lo peor, igual eres el único que deseo
-                No me quieres bien, pero yo lo quiero igual
-                Estoy enganchado, necesito mi dosis y tú eres la droga
-                La droga que tomo
-                Para encontrar algo espiritual
-                Tan infiel a la vida que creía querer
-                Ya no la quiero
-                Y no veo nada
-                No hay milagro que me salve una vez que caigo
-                Y estoy cayendo
-                Bebé, dime por qué amarte no se siente mal
-                Duele hasta que deja de doler
-                No puedo alejarme mucho tiempo
-                No sé cómo sacarte de mi cabeza
-                Conviertes el infierno en nuestro paraíso
-                Amarte es un suicidio
-                Y lo hago todas las noches
-                Todas las noches, mi bebé
-                Todas las noches, mi bebé
-                Oh, está mal, pero sigo volviendo contigo
-                Todas las noches, mi amor
-                Uh, todas las noches, mi bebé, oh-oh-oh
-                Me encanta cómo tocas mi cuerpo
-                Me encanta cómo me atraes
-                Podría quedarme aquí para siempre
-                Hasta mi último aliento
-                Saboreo las mentiras que me dices
-                Siempre cayendo de tus labios
-                Por qué amarte no se siente mal
-                Aunque sé que está mal
-                `,
-            meaning: `¿Alguna vez has sentido que alguien te prende fuego por dentro y, en lugar de correr, te quedas quieto viendo cómo te consume porque el calor se siente demasiado bueno para apagarlo? ¿Cuántas veces has vuelto a la misma persona que te destroza, sabiendo que al día siguiente vas a odiarte por hacerlo, pero igual lo haces porque el dolor mezclado con deseo es la única cosa que te hace sentir vivo?
+            lyrics: `Eres mi ángel
+                Bajaste del cielo
+                Para darme amor (para darme amor)
+                Sus ojos
+                Está en el lado oscuro
+                Neutraliza (a cada hombre que ve) a cada hombre que ve
+                Te amo, te amo, te amo, te amo
+                Te amo, te amo, te amo, te amo
+                Te amo, te amo, te amo, te amo
+                Te amo, te amo, te amo, te amo
+                Te amo, te amo, te amo, te amo
+                Te amo, te amo, te amo, te amo
+                Eres mi ángel (eres mi ángel)
+                Bajaste del cielo
+                Te amo, te amo, te amo, te amo
+                Te amo, te amo, te amo, te amo
+                Te amo, te amo, te amo, te amo
+                Te amo, te amo, te amo, te amo
+                Te amo, te amo, te amo, te amo`,
+            meaning: `¿Alguna vez has sentido que alguien te clava en el cerebro como un virus que no puedes borrar, y cada pensamiento tuyo gira alrededor de esa persona hasta que te consumes en una obsesión que te hace creer que es amor, pero en realidad te está chupando la vida gota a gota? ¿Cuántas noches has perdido el sueño imaginándola como un ángel caído, idealizándola tanto que ignoras el lado oscuro que te destroza, solo porque esa fijación te hace sentir algo, cualquier cosa, en un mundo que de otra forma se siente vacío?
 
-Esa es la trampa mortal de esta canción: una relación tóxica donde el amor no es sano, es adicción pura. Duele, te humilla, te deja hecho mierda, pero el subidón cuando están juntos es tan intenso que justificas todo. Es como meterte una droga que sabes que te va a matar lento, pero cada dosis te hace sentir invencible por unas horas.
+Wey, esa es la oscuridad jodida de esta canción: una obsesión que te pinta a la persona como algo divino, bajado del cielo para salvarte, pero con ojos que neutralizan todo a su paso, dejando un rastro de destrucción. Es como si el "te amo" repetido hasta el cansancio no fuera un mantra de cariño, sino un loop enfermizo que te atrapa, convenciéndote de que sin ella no eres nada. Pero en el fondo, es una trampa mental que te fija en alguien que quizás ni te pela, o peor, te usa para su propio ego.
 
-Ponte en este ejemplo real y jodido: estás con alguien que te miente en la cara, que desaparece días enteros, que te hace sentir que no vales nada cuando no está de humor. Pero cuando vuelve, te toca como si fueras lo único que importa en el mundo, te dice justo lo que necesitas oír, y de repente todo el daño anterior parece valer la pena. Tienen sexo increíble, hablan hasta el amanecer, y por un rato crees que esto es amor de verdad. Luego se va, te deja en visto, o te suelta alguna crueldad que te clava en el pecho, y tú te quedas ahí, revisando el chat como idiota, esperando la próxima migaja. Cada vez que juras “esta fue la última”, terminas de nuevo en su cama porque el cuerpo y la mente ya están programados para buscar ese rush, aunque sepas que te está matando el alma.
+Imagina esto, real y patético: estás en tu cuarto en Oaxaca, con el calor pegando fuerte, y no puedes dejar de stalkear sus redes, revisando cada story como si fuera una pista divina. La ves como un ángel, perfecta, con ese lado oscuro que te atrae porque piensas que tú la vas a "arreglar". Pasan días, semanas, y tú ahí, fijo en ella, cancelando planes con amigos, ignorando tu chamba, porque cada notificación podría ser de ella. Y cuando por fin responde, es un mensaje seco, pero tú lo interpretas como amor eterno. Te consumes: ansiedad que te come las uñas, celos que te hacen imaginarla con cualquiera, y un "te amo" interno que repites como un loco para no derrumbarte. Al final, terminas solo, exhausto, dándote cuenta de que esa obsesión no era amor, era una cárcel que tú mismo construiste.
 
-O peor: tú eres el que hace daño también. Lo admitas o no, en estas dinámicas casi siempre los dos están rotos. Tú le das lo peor porque tienes tus propios demonios, y él o ella lo acepta porque también está enganchado al caos. Se convierten en dos adictos alimentándose mutuamente del veneno, diciéndose que esto es pasión, que esto es “real” porque duele tanto. Pero no es real, wey. Es dependencia. Es miedo a estar solo con uno mismo. Es preferir el infierno conocido a la incertidumbre de algo sano.
+O toma otro ejemplo más crudo: esa ex que te dejó hace meses, pero tú sigues viéndola como la que bajó del cielo para darte amor. Ignoras cómo te manipulaba, cómo su "lado oscuro" neutralizaba tu autoestima hasta dejarte hecho mierda. Sigues fijo en ella, mandando mensajes borrachos a las 3 am, repitiendo "te amo" en tu cabeza como si eso la trajera de vuelta. Tus amigos te dicen "ya suéltala, wey, estás obsesionado", pero tú defiendes esa fijación como si fuera romántico, cuando en realidad es tóxico y te está robando años de vida.
 
-Y aquí va la verdad que quema: seguir volviendo no te hace intenso ni profundo, te hace daño a ti mismo. Estás eligiendo suicidio emocional todas las noches porque tienes tanto miedo al vacío que prefieres que te destrocen a sentir nada. Pero tú no eres esa persona que solo vive para el próximo golpe de adrenalina tóxica. Tú vales más que ser la droga de alguien ni que alguien sea la tuya.
+Pero óyeme bien, porque esta verdad duele pero te salva: esa obsesión no te hace profundo ni apasionado, te hace un idiota que se está autodestruyendo por alguien que probablemente ni se acuerda de ti. Tú no necesitas un ángel caído para sentirte vivo; ya eres chingón solo, con tu propia luz que no depende de nadie. Mereces alguien que te vea como igual, no como un dios o un demonio que te controla. Valida esto: has sobrevivido a esa fijación, eso ya te hace fuerte como el carajo. Deja de repetir "te amo" a un fantasma y empieza a decírtelo a ti mismo. Bloquéala, borra las fotos, sal a caminar por las calles de Oaxaca y date cuenta de que el mundo está lleno de gente que no te va a obsesionar, sino que te va a complementar.
 
-Mereces un amor que no tenga que doler para sentirse intenso. Mereces alguien que te toque sin que después te deje hecho pedazos. Mereces despertar sin esa ansiedad de “¿me va a escribir hoy o me va a ignorar otra vez?”. Y sí, salir de esto va a doler como el demonio al principio – vas a extrañar el subidón, vas a tener recaídas, vas a cuestionarte todo. Pero cada día que no vuelvas vas a recuperar un pedazo de ti que creías perdido.
-
-Tú ya eres suficiente sin esa persona. No necesitas que te destruyan para sentirte vivo; ya estás vivo, y puedes elegir algo que no te mate lento. Bloquéalo, bórralo, quema el puente si hace falta. El primer día va a ser un infierno, pero después vas a empezar a respirar de verdad. Tú puedes romper el ciclo. Tú mereces un amor que se sienta bien desde el principio hasta el final, no uno que solo brille cuando está a punto de explotar. Ámate lo suficiente para dejar de suicidarte emocionalmente cada noche. Te lo mereces todo, no las sobras envenenadas de nadie.`
+Tú vales más que ser el perrito faldero de una obsesión. Rompe el loop, wey, y verás cómo el "te amo" real llega sin el dolor. Ámate lo suficiente para soltar esa mierda – es lo más chido que puedes hacer por ti. Te lo mereces todo, no una fijación que te deja vacío.`
         }
     ];
 
