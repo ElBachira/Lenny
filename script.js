@@ -41,8 +41,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 2. SISTEMA DE REPRODUCTOR DE MÚSICA ---
     const songs = [
         {
-            title: "Wrong",
-            artist: "Chris Grey",
+            title: "Angel",
+            artist: "Massive Attack",
             src: "song.mp3", 
             lyrics: `Eres mi ángel
                 Bajaste del cielo
